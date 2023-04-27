@@ -1,5 +1,7 @@
-/build*
-/config
+/build/
+/cmake-build-debug/
+/cmake-build-release/
+/config/
 
 *.spv
 
